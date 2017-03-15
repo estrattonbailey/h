@@ -1,0 +1,21 @@
+{
+  "name": "estrattonbailey/h",
+  "type": "library",
+  "description": "Functional components in PHP",
+  "keywords": [
+    "templating",
+    "components"
+  ],
+  "homepage": "https://github.com/estrattonbailey/h",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "estrattonbailey",
+      "homepage": "http://estrattonbailey.now.sh",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=7.0.0"
+  }
+}
